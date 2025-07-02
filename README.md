@@ -6,5 +6,7 @@ i love :Dog:, :mountain: :computer:
 i love :pizza:, :video_game:, :cinema:
 
 mi ultima linea en el repositorio
+
 nueva actividad
+
 Finalizado en GitHub
